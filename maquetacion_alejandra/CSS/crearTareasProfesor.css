@@ -184,7 +184,6 @@
 .contenedor article .parte3 #desc:hover{
     background: white;
 }
-
 .contenedor article .parte4{
     margin: 30px;
     width: 900px;
@@ -193,6 +192,7 @@
     border-radius: 15px;
 }
 /* parte3 -------------------- centro*/
+.contenedor article .parte4 h2{
     margin: 10px 0px 0px 20px;
 }
 .contenedor article .parte4 .image{
